@@ -1,4 +1,8 @@
-### Hi there 👋
+### 안녕하세요. 조혜인입니다 ☺️
+
+👋 Hi, I’m hen mysite:http://146.56.150.211/
+
+MBTI : ENFP
 
 <!--
 **chi0518/chi0518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
